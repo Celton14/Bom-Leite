@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Sans+Condensed:wght@200..900&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+    text-decoration:none;
+   } 
+    
+   span{
+       display: flex;
+       background: rgba(0, 45, 123, 1);
+       color:white;
+       padding-left:30px ;
+   }
+   
+   header{
+       padding-left:30px ;
+       height: 70px;
+       width:flex;
+       display: flex;
+       justify-content: 40px;
+       align-items: center;
+       background: var(--Pantone-293-C, rgba(0, 61, 165, 1));  
+       
+   }
+   
+   nav,a {
+       text-decoration:none;
+       padding-right: 576px ;
+       font-size: 16px;
+       color:white;
+   }
+   div button {
+       width: 30px;
+       height: 27px;
+       border:none;
+       border-radius: 50px;
+        margin-right: 10px;
+        cursor: pointer;
+        background: var(--Pantone-293-C, white); 
+        color:rgba(0, 61, 165, 1);
+   }
+
+   h1 {
+     margin:60px;
+     font-size: 40px;
+     color:#1abae9;
+   }
+
+ main img { 
+     width: 220px;
+     padding-left: 10px;
+     cursor:pointer;
+ }
+
+ .produto-nome {
+     padding-left: 30px; 
+     font-size:20px ;
+     cursor:pointer;
+     font-family:"Freeman", sans-serif;
+     color:rgba(0, 61, 165, 1);
+ }
+
+ footer img {
+     width: 100%;
+ }
+
+    
+   
+
+
+  
+
+
+
+   

@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding: 0;
+    text-decoration:none;
+   } 
+    
+   span{
+       display: flex;
+       background: rgba(0, 45, 123, 1);
+       color:white;
+       padding-left:30px ;
+   }
+   
+   header{
+       padding-left:30px ;
+       height: 70px;
+       width:flex;
+       display: flex;
+       justify-content: 40px;
+       align-items: center;
+       background: var(--Pantone-293-C, rgba(0, 61, 165, 1));  
+       
+   }
+   
+   nav,a {
+       text-decoration:none;
+       padding-right: 576px ;
+       font-size: 16px;
+       color:white;
+   }
+   div button {
+       width: 30px;
+       height: 27px;
+        border:none;
+        border-radius: 50px;
+         margin-right: 10px;
+         cursor: pointer;
+         background: var(--Pantone-293-C, white); 
+         color:rgba(0, 61, 165, 1);
+   }
+   
+   sociais button i {
+       font-size: 20x;
+   }
+
+div img{
+    width: 300px;
+       height: 300px;
+  }
+   
